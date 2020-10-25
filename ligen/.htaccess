@@ -1,0 +1,5 @@
+<FilesMatch "\.(txt|l98)$">
+order deny,allow
+deny from all
+allow from 212.123.124.25
+</FilesMatch>

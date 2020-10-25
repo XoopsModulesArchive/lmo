@@ -1,0 +1,62 @@
+TippDir=tipps/
+ShowNick=1
+ShowName=0
+ShowEmail=0
+Tippspiel=1
+Regeln=1
+RegelnLink=tippregeln.php
+Adresse=0
+RealName=1
+Gesamt=1
+Freischaltung=1
+EntscheidungnV=0
+EntscheidungiE=0
+EinsichtenErstNachSchluss=0
+WertVerein=0
+AktAuswert=1
+AktAuswertGes=1
+AktEinsicht=1
+TippTabelle=1
+TippTabelle1=1
+TippEinsicht=1
+TippFieber=1
+TippBis=10
+TippOhne=0
+TipperTeam=0
+imVorraus=-1
+PfeilTipp=1
+StTipp=1
+ViewerTipp=1
+ViewerTage=7
+TippModus=1
+rErgebnis=10
+rTendenzDiff=5
+rTendenz=3
+rTor=1
+rTendenzTor=1
+rTendenzRemis=0
+rRemis=2
+AnzahlSeite=30
+AnzahlSeite1=30
+GTPunkte=0
+ImmerAlle=1
+LigenZuTippen=
+TextReminder1=Hallo [name]
+&#10;Diese Mail ist eine Erinnerung an Deine Tippabgabe.
+&#10;Bisher haben wir leider noch keine Tippabgabe von Dir für folgende Spielpaarungen:
+&#10;[spiele]
+&#10;Hier nochmals Deine Zugangsdaten:
+&#10;Nickname: [nick]
+&#10;Passwort: [pass]
+&#10;
+&#10;http://www.
+ShowTendenzAbsolut=1
+ShowTendenzProzent=0
+ShowDurchnittstipp=0
+ShowZusammensetzung=1
+ShowStSiege=1
+Krit1=0
+Krit2=-1
+Krit3=-1
+JokerTipp=1
+JokerTippMulti=2

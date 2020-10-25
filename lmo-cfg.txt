@@ -1,0 +1,7 @@
+LeagueDir=ligen/
+PktJustify=0
+TabOnResults=0
+BackLink=1
+CalcTime=0
+DefaultTime=15:30
+AdminMail=webmaster@service.bama-webdesign.de
